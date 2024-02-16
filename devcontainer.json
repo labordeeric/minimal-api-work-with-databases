@@ -1,0 +1,6 @@
+{
+    "image": "mcr.microsoft.com/vscode/devcontainers/dotnet:8.0.2",
+    "settings": { 
+        "dotnet.sdk": "8.0.2" 
+    }
+}
